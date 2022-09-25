@@ -38,4 +38,4 @@ The batch file is simply conecting to this adb instance and running an `adb push
 
 Nothing fancy. 
 
-I'd recommend keeping a shortcut with a fancy name, maybe with a fancy icon, on Desktop if you move a lot of files to WSA regularly.
+I'd recommend keeping a shortcut to this little scipt with a fancy name, maybe with a fancy icon, on Desktop if you move a lot of files to WSA regularly.
