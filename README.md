@@ -24,7 +24,7 @@ Prerequisite : Enable Developer Mode from WSA Settings. You need to do this only
 <p align="center"><img align = "center" src="https://user-images.githubusercontent.com/64971616/192135484-23efc940-531e-46ba-8bd2-709143163fe6.png">
 </p>
 
-That's it! Your file will be waiting in the `Downloads` folder.
+That's it! Your file will be waiting in the `Downloads` folder within WSA.
 
 
 ## How it be?
