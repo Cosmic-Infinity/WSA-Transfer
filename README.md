@@ -1,6 +1,6 @@
 # WSA-Transfer
 
-Winodws Subsystem for Android runs runs on Hyper-V, a virtualization platform by Microsoft. If that rings a bell, you'd know that the storage used by WSA is encrypted and will not be accessible to the user.
+Winodws Subsystem for Android runs on Hyper-V, a virtualization platform by Microsoft. If that rings a bell, you'd know that the storage used by WSA is encrypted and is not be accessible to the user.
 
 So you have this shiny new app that you want to tranfer into WSA for installation but you can't transfer it into the damn thing. Oh well, one way could be through FTP but really, unless you have 3 minutes to waste, you're probably looking for an elegant solution.
 
@@ -29,7 +29,7 @@ That's it! Your file will be waiting in the `Downloads` folder within WSA.
 
 ## How it be?
 
-I mean, it's literally 4 lines of code, so I guess there's noting much in terms of explanation.
+I mean, it's literally 4 lines of code, so I guess there's noting much in terms of explanaing.
 
 
 The transfer is taking place via ADB (Android Debug Bridge). Once the "Dveloper Mode" is eneabled in WSA Settings, by default an adb server is opened on `127.0.0.1` port `58526`.
