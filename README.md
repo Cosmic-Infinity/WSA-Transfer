@@ -10,10 +10,12 @@ Enter the very desciptively named _"WSA Transfer"_. It transfers files to Window
 
 ## Teach me Senpai
 
-Prerequisite : Enable Developer Mode from WSA Settings. You need to do this only once.
-
+Prerequisites :
+**Enable Developer Mode** from WSA Settings. You need to do this only once.
 
 ![Screenshot (34)](https://user-images.githubusercontent.com/64971616/192135909-cb8ab870-c512-4b1e-978e-2d53b114e37f.png)
+
+***NOTE:*** The script assumes you have [platform tools installed](https://developer.android.com/studio/releases/platform-tools) and [environment variable configured](https://www.xda-developers.com/adb-fastboot-any-directory-windows-linux/) to recognise adb commands globally.
 
 
 1. Click-hold the file you want to transfer.
